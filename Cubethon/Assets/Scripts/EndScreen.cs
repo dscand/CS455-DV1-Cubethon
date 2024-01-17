@@ -1,6 +1,5 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class EndScreen : MonoBehaviour
 {
@@ -8,6 +7,7 @@ public class EndScreen : MonoBehaviour
     public void Quit()
     {
         Debug.Log("QUIT");
-        Application.Quit();
+        //Application.Quit();
+        SceneManager.LoadScene(0);
     }
 }
