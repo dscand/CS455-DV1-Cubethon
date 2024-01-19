@@ -902,6 +902,10 @@ PrefabInstance:
       propertyPath: gameManager
       value: 
       objectReference: {fileID: 1642983049}
+    - target: {fileID: 5741979160389589121, guid: 08b459e6c09012b4c8e1fb4b10e3562b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5741979160729476555, guid: 08b459e6c09012b4c8e1fb4b10e3562b, type: 3}
       propertyPath: Player
       value: 
@@ -997,6 +1001,10 @@ PrefabInstance:
     - target: {fileID: 6111745892492479841, guid: 08b459e6c09012b4c8e1fb4b10e3562b, type: 3}
       propertyPath: m_text
       value: Level 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6111745892492479841, guid: 08b459e6c09012b4c8e1fb4b10e3562b, type: 3}
+      propertyPath: m_fontSize
+      value: 45.05
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08b459e6c09012b4c8e1fb4b10e3562b, type: 3}
