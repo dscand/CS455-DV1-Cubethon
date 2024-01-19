@@ -129,7 +129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 3843329330991567891}
-  ForwardForce: 2200
+  ForwardForce: 2500
   SideForce: 80
   JumpForce: 600
   onGround: 0
